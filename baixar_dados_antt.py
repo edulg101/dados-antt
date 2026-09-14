@@ -8,7 +8,7 @@ Executado automaticamente pelo GitHub Actions
 
     python baixar_dados_antt.py
 
-Dependências: requests, pandas, openpyxl
+Dependências: requests, openpyxl
 """
 
 import os
