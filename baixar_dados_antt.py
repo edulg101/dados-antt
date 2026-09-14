@@ -51,7 +51,7 @@ ORIGEM_DOS_DADOS = "ANTT - Agência Nacional de Transportes Terrestres"
 GERAR_CSV = False
 
 # Guardar também uma cópia com a data no nome (histórico)?
-GUARDAR_HISTORICO = True
+GUARDAR_HISTORICO = False
 
 PASTA_SAIDA = "dados"
 
