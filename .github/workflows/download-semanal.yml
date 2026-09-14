@@ -2,8 +2,8 @@ name: Download semanal - Dados Abertos ANTT
 
 on:
   schedule:
-    # Toda segunda-feira às 08:00 UTC = 05:00 em Brasília (UTC-3)
-    - cron: '0 8 * * 1'
+    # Todo domingo às 23:00 UTC = 20:00 de domingo em Brasília (UTC-3)
+    - cron: '0 23 * * 0'
   workflow_dispatch:   # permite rodar manualmente pelo botão "Run workflow"
 
 permissions:
