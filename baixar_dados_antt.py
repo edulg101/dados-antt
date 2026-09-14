@@ -19,7 +19,7 @@ import pandas as pd
 RESOURCE_ID = "f90fb6c6-9ecf-4b9d-86d7-153bdf0c1fd1"
 COLUNAS_DESEJADAS = ["concessionaria", "municipio"]
 NOME_ESTAVEL = "concessionaria_municipio.csv"
-GUARDAR_HISTORICO = True
+GUARDAR_HISTORICO = False
 GUARDAR_BRUTO = False
 SEP_SAIDA = ";"
 PASTA_SAIDA = "dados"
